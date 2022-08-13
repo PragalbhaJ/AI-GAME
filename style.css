@@ -1,0 +1,23 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+#qaz{
+   color: randomColor;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid rgba(255, 255, 255, 0) ;
+}
+
+.big_image {
+    width: 100%;
+}
+
+.instruction_image {
+    display: inline-block;
+    width: 45%;
+}
